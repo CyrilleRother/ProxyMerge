@@ -1,0 +1,17 @@
+C:\Users\cyros\source\repos\ProxyListMerge\bin\Debug\net6.0-windows\ProxyListMerge.exe
+C:\Users\cyros\source\repos\ProxyListMerge\bin\Debug\net6.0-windows\ProxyListMerge.deps.json
+C:\Users\cyros\source\repos\ProxyListMerge\bin\Debug\net6.0-windows\ProxyListMerge.runtimeconfig.json
+C:\Users\cyros\source\repos\ProxyListMerge\bin\Debug\net6.0-windows\ProxyListMerge.dll
+C:\Users\cyros\source\repos\ProxyListMerge\bin\Debug\net6.0-windows\ProxyListMerge.pdb
+C:\Users\cyros\source\repos\ProxyListMerge\obj\Debug\net6.0-windows\ProxyListMerge.csproj.AssemblyReference.cache
+C:\Users\cyros\source\repos\ProxyListMerge\obj\Debug\net6.0-windows\ProxyListMerge.Form1.resources
+C:\Users\cyros\source\repos\ProxyListMerge\obj\Debug\net6.0-windows\ProxyListMerge.csproj.GenerateResource.cache
+C:\Users\cyros\source\repos\ProxyListMerge\obj\Debug\net6.0-windows\ProxyListMerge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyros\source\repos\ProxyListMerge\obj\Debug\net6.0-windows\ProxyListMerge.AssemblyInfoInputs.cache
+C:\Users\cyros\source\repos\ProxyListMerge\obj\Debug\net6.0-windows\ProxyListMerge.AssemblyInfo.cs
+C:\Users\cyros\source\repos\ProxyListMerge\obj\Debug\net6.0-windows\ProxyListMerge.csproj.CoreCompileInputs.cache
+C:\Users\cyros\source\repos\ProxyListMerge\obj\Debug\net6.0-windows\ProxyListMerge.dll
+C:\Users\cyros\source\repos\ProxyListMerge\obj\Debug\net6.0-windows\refint\ProxyListMerge.dll
+C:\Users\cyros\source\repos\ProxyListMerge\obj\Debug\net6.0-windows\ProxyListMerge.pdb
+C:\Users\cyros\source\repos\ProxyListMerge\obj\Debug\net6.0-windows\ProxyListMerge.genruntimeconfig.cache
+C:\Users\cyros\source\repos\ProxyListMerge\obj\Debug\net6.0-windows\ref\ProxyListMerge.dll
